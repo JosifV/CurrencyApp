@@ -1,0 +1,51 @@
+.jubmotron {
+  margin: 0;
+}
+.col {
+  text-align: center;
+}
+.copyright-text {
+  margin: 0;
+}
+.ulSocial {
+  text-align: right;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.ulSocial li {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+.ulSocial a {
+  margin-left: 6px;
+  background-color: #073642;
+
+  color: #839496;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 44px;
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  margin-right: 8px;
+  border-radius: 100%;
+}
+.ulSocial a:active,
+.ulSocial a:focus,
+.ulSocial a:hover {
+  color: #fff;
+  background-color: #002b36;
+}
+.ulSocial a.facebook:hover {
+  background-color: #002b36;
+}
+.ulSocial a.twitter:hover {
+  background-color: #002b36;
+}
+.ulSocial a.linkedin:hover {
+  background-color: #002b36;
+}
+.ulSocial a.dribbble:hover {
+  background-color: #002b36;
+}
